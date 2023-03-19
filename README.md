@@ -1,0 +1,1 @@
+The bot that accepts payments
